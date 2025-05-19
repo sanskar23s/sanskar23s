@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 23dszone@gmail.com 
+- 📫 How to reach me sanskardevlops.it.23@gmail.com 
 
 
 <!---
